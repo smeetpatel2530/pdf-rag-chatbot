@@ -55,5 +55,3 @@ Run locally:
 streamlit run app/main.py
 ```
 
-## Resume Positioning
-This project demonstrates practical GenAI engineering by combining document ingestion, semantic retrieval, prompt orchestration, vector search, and an interactive frontend in a single deployable application.
