@@ -1,6 +1,5 @@
 # DocuQuery AI — Multi-PDF RAG Chatbot
 
-> **Author:** Smeet Patel | M.Tech CSE, Delhi Technological University | 2026
 
 An end-to-end GenAI application that lets users upload multiple PDF documents and ask natural-language questions over them. The system uses Retrieval-Augmented Generation (RAG) with LangChain, FAISS vector search, and Google Gemini to generate context-aware answers grounded in uploaded documents.
 
