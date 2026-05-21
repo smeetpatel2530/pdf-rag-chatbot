@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+venv/
+vectorstore/index.faiss
+vectorstore/index.pkl
+data/*.pdf
+.DS_Store
