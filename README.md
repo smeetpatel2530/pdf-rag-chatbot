@@ -3,6 +3,7 @@
 
 An end-to-end GenAI application that lets users upload multiple PDF documents and ask natural-language questions over them. The system uses Retrieval-Augmented Generation (RAG) with LangChain, FAISS vector search, and Google Gemini to generate context-aware answers grounded in uploaded documents.
 
+
 ## Core Features
 - Multi-PDF upload and parsing
 - Chunking and vector indexing with FAISS
